@@ -1,4 +1,4 @@
-# HTB Valentine Write-up
+# HTB BoardLight Write-up
 
 We begin with an Nmap scan to enumerate open ports and services.
 
